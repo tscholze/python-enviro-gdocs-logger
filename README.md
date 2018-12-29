@@ -25,7 +25,7 @@ It is recommended to run the script in a detachable shell session with screen or
 
 The script will run after the delay that is defined in the source's constant `MINUTES_BETWEEN_SYNCS`. Default value is 15 minutes between a cycle run. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Dashboard")
+![Dashboard](https://github.com/tscholze/python-enviro-gdocs-logger/blob/master/docs/dashboard.png?raw=true)
 
 
 # Stop
